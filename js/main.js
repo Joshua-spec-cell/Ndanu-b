@@ -137,7 +137,7 @@
   /* ---------------- Wish wall ----------------
      Paste your Google Apps Script web app URL below to share wishes with
      everyone. Leave it empty and wishes save only in this browser. */
-  var WISH_API_URL = '';
+  var WISH_API_URL = 'https://script.google.com/macros/s/AKfycbzemSqZbth1Q10xpdo6q-Z_BErOie8sDHsc4cDN_lkYJT5XS-H-_6S8S3zc1xBMAjQ6gg/exec';
 
   var WISH_KEY = 'grace-birthday-wishes-v1';
   var grid = document.getElementById('wish-grid');
