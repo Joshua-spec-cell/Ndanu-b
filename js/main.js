@@ -92,8 +92,8 @@
   function refreshHint() {
     var r = remaining();
     if (r === 0) {
-      hint.textContent = 'All candles out — wish made!';
-      success.textContent = 'Happy Birthday, Grace! 🎉';
+      hint.textContent = 'All candles out, wish made!';
+      success.textContent = 'Happy Birthday, Ndanu! 🎉';
     } else {
       hint.textContent = r + (r === 1 ? ' candle left' : ' candles left');
     }
